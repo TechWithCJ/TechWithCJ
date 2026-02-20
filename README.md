@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1>Hi, I'm Christian!  <a href="https://www.linkedin.com/in/christian-elijah-jamison-4274a139a/">LinkedIn</a>, 
+<h2>👨‍💻 IT HelpDesk Projects:</h2>
 
-<!--
-**TechWithCJ/TechWithCJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- <b>Windows-Server </b>
+  
 
-Here are some ideas to get you started:
+<h2> 🤳 Connect with me:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="Christian-Elijah Jamison | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[linkedin]: https://www.linkedin.com/in/christian-elijah-jamison-4274a139a/
+
+
+
